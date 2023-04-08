@@ -9,6 +9,9 @@
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "url": "https://github.com/zjhcn/hank-monokai-theme"
+  },
   "contributes": {
     "themes": [
       {
