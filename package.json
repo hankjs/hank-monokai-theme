@@ -1,0 +1,21 @@
+{
+  "name": "hank-monokai-theme",
+  "displayName": "hank-monokai-theme",
+  "description": "Hank VSCode Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Hank Monokai",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Hank Monokai Theme-color-theme.json"
+      }
+    ]
+  }
+}
