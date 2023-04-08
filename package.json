@@ -20,5 +20,7 @@
         "path": "./themes/Hank Monokai Theme-color-theme.json"
       }
     ]
-  }
+  },
+  "publisher": "hankc",
+  "license": "MIT"
 }
