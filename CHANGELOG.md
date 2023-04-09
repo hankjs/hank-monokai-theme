@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.4](https://github.com/zjhcn/hank-monokai-theme/compare/v0.1.3...v0.1.4) (2023-04-09)
+
+
+### 🐛 Bug Fixes
+
+* emphasis color ([56ef196](https://github.com/zjhcn/hank-monokai-theme/commit/56ef1963c2692cf7c4011c64326d9676f1c773ff))
+
 ### [0.1.3](https://github.com/zjhcn/hank-monokai-theme/compare/v0.1.2...v0.1.3) (2023-04-09)
 
 
