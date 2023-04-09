@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.3](https://github.com/zjhcn/hank-monokai-theme/compare/v0.1.2...v0.1.3) (2023-04-09)
+
+
+### ✨ Features
+
+* change display name “Hank VSCode Theme” ([8519d90](https://github.com/zjhcn/hank-monokai-theme/commit/8519d909f97102a3913bb5cc08cde12644234afd))
+
 ### 0.1.2 (2023-04-09)
 
 
