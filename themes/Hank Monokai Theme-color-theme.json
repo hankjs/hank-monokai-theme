@@ -466,7 +466,7 @@
 			"name": "Markdown Emphasis",
 			"scope": "markup.italic.markdown",
 			"settings": {
-				"foreground": "#FFFFFF11",
+				"foreground": "#c9b8ff",
 				"fontStyle": "italic"
 			}
 		},
