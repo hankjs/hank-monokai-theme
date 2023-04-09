@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.6](https://github.com/zjhcn/hank-monokai-theme/compare/v0.1.5...v0.1.6) (2023-04-09)
+
+
+### ✨ Features
+
+* footnotes add visibility ([3b46649](https://github.com/zjhcn/hank-monokai-theme/commit/3b466499bfe72ee204048de5c56b54c2d17675ec))
+
 ### [0.1.5](https://github.com/zjhcn/hank-monokai-theme/compare/v0.1.4...v0.1.5) (2023-04-09)
 
 
