@@ -30,13 +30,3 @@ All notable changes to this project will be documented in this file. See [standa
 ### ✨ Features
 
 * footnotes color be transparent ([fa58224](https://github.com/zjhcn/hank-monokai-theme/commit/fa582241fcfe1430237b3eefaea9c186f259d2f2))
-
-# Change Log
-
-All notable changes to the "foam-monokai-theme" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release

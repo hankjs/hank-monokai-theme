@@ -26,6 +26,7 @@
     ]
   },
   "publisher": "hankc",
+  "icon": "./icon.jpg",
   "license": "MIT",
   "packageManager": "pnpm@8.1.1",
   "devDependencies": {
