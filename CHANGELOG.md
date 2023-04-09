@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.5](https://github.com/zjhcn/hank-monokai-theme/compare/v0.1.4...v0.1.5) (2023-04-09)
+
+
+### 🚀 Chore
+
+* add publish script ([8ad4275](https://github.com/zjhcn/hank-monokai-theme/commit/8ad4275eaf623782bfc72ed175065631808f4e9a))
+
+
+### ✨ Features
+
+* add icon ([2f6392c](https://github.com/zjhcn/hank-monokai-theme/commit/2f6392cf7bc1a7bfabf8abe738440d97de3cfbc3))
+
 ### [0.1.4](https://github.com/zjhcn/hank-monokai-theme/compare/v0.1.3...v0.1.4) (2023-04-09)
 
 
