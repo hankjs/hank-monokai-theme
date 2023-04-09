@@ -2,7 +2,10 @@
   "name": "hank-monokai-theme",
   "displayName": "hank-monokai-theme",
   "description": "Hank VSCode Theme",
-  "version": "0.0.1",
+  "version": "0.1.1",
+  "scripts": {
+    "release": "standard-version"
+  },
   "engines": {
     "vscode": "^1.76.0"
   },
@@ -22,5 +25,8 @@
     ]
   },
   "publisher": "hankc",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "standard-version": "^9.5.0"
+  }
 }
